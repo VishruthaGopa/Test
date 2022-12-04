@@ -1,9 +1,7 @@
 '''
 Vishrutha Gopa
-101267228
-COMP 1405 A: Assignment 10
-Due Date: Nov 25, 2022
 '''
+
 # IMPORTANT: DO NOT CLOSE THE MAP WHILE PLAYING THE TEXT ADVENTURE
 
 # Import pygame and sys
